@@ -653,10 +653,6 @@ main{
                     border: none;
                     background: transparent;
                     border-radius: 3px;
-
-                    &:focus{
-                        outline: $outline;
-                    }
                 }
                 
                 & > *{
